@@ -9,9 +9,10 @@ Aplikasi berbasis web interaktif untuk menentukan rute distribusi obat dan vaksi
 ---
 
 ## 👥 Anggota Kelompok (UGM)
-- **Nazwa Nazira** 
+
 - **Maulida Musyarofah** 
-- **Artya Asqishan** 
+- **Artya Asqishan**
+- **Nazwa Nazira**
 
 ---
 
